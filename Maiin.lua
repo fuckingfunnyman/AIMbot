@@ -1,20 +1,5 @@
 --[[
-    ╔═══════════════════════════════════════════════════════════════════╗
-    ║              ADVANCED AIMBOT + ESP - RAYFIELD EDITION             ║
-    ║                        FULL PRODUCTION SCRIPT                      ║
-    ║                        Version 2.0.1 - FIXED                        ║
-    ╚═══════════════════════════════════════════════════════════════════╝
-    
-    FEATURES:
-    • FOV-based aimbot with smooth aim
-    • Full ESP with boxes, health bars, names, distance, tracers
-    • Team check functionality
-    • Configurable aim parts
-    • Rainbow ESP option
-    • Clean Rayfield UI
-    • Auto-save configuration
-    
-    WARNING: For educational purposes only. Use at your own risk.
+    What the.. YOURE NOT WELCOME HERE SKID
 ]]
 
 -- ============================================
@@ -892,4 +877,5 @@ else
     print("Aimbot + ESP running in headless mode. Use console to toggle.")
     Aimbot.Enabled = true
     ESP.Enabled = true
+
 end
